@@ -6,11 +6,9 @@ In this part of the tutorial we setup langgraph to act as our virtual agent, and
 - Get business/process information
 
 We designed our agent to act like this:
-![Blank diagram (13)](https://github.com/user-attachments/assets/6b243fb1-18a7-41ef-8ab1-ee536912b040)
+![Blank diagram (13)](https://github.com/user-attachments/assets/156e98aa-23f2-475d-a167-ac1735a39e79)
 
 So that when we query the chatbot, we can see the retrieved information from the knowledge base and how the chatbot has used the information.
-
-![image](https://github.com/user-attachments/assets/89e3bbc3-702f-4f34-8236-cdc8e74a2628)
 
 
 ## Setup
